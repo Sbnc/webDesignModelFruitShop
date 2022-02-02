@@ -1,4 +1,2 @@
-# webDesignModelFruitShop
-design implementation
-
-Modelo do layout obtido pelo Figma e implementado
+# Web Design Model FruitShop
+Design cloned from figma models and implemented. 
